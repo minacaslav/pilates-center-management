@@ -1,0 +1,15 @@
+C:\Users\minan\source\repos\PilatesApp\DBBroker\bin\Debug\net8.0\DbBroker.deps.json
+C:\Users\minan\source\repos\PilatesApp\DBBroker\bin\Debug\net8.0\DbBroker.dll
+C:\Users\minan\source\repos\PilatesApp\DBBroker\bin\Debug\net8.0\DbBroker.pdb
+C:\Users\minan\source\repos\PilatesApp\DBBroker\bin\Debug\net8.0\Common.dll
+C:\Users\minan\source\repos\PilatesApp\DBBroker\bin\Debug\net8.0\Common.pdb
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\DbBroker.csproj.AssemblyReference.cache
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\DbBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\DbBroker.AssemblyInfoInputs.cache
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\DbBroker.AssemblyInfo.cs
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\DbBroker.csproj.CoreCompileInputs.cache
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\DbBroker.csproj.Up2Date
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\DbBroker.dll
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\refint\DbBroker.dll
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\DbBroker.pdb
+C:\Users\minan\source\repos\PilatesApp\DBBroker\obj\Debug\net8.0\ref\DbBroker.dll

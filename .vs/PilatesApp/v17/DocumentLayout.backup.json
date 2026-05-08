@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minan\\source\\repos\\PilatesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\guicontroller\\evidencijaguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\guicontroller\\evidencijaguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\guicontroller\\clanguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\guicontroller\\clanguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\usercontrols\\ucubacitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\usercontrols\\ucubacitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\usercontrols\\ucpretraziclanove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\usercontrols\\ucpretraziclanove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\usercontrols\\ucpretrazievidenciju.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\usercontrols\\ucpretrazievidenciju.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\usercontrols\\uckreirajevidencijaclanarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\usercontrols\\uckreirajevidencijaclanarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\usercontrols\\ucdetaljievidencije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\usercontrols\\ucdetaljievidencije.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\usercontrols\\uckreirajclana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\usercontrols\\uckreirajclana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\usercontrols\\ucdetaljiclana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\usercontrols\\ucdetaljiclana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\guicontroller\\loginguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\guicontroller\\loginguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\guicontroller\\maincoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\guicontroller\\maincoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\guicontroller\\treningguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\guicontroller\\treningguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\communications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\communications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Klijent.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Klijent.csproj|solutionrelative:klijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\communication\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\communication\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\trenertrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\trenertrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\trener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\trener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\tipclanarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\tipclanarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\tipclana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\tipclana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\stavkaevidencijeclanarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\stavkaevidencijeclanarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\evidencijaclanarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\evidencijaclanarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\domain\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\domain\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\communication\\jsonnetworkserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\communication\\jsonnetworkserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\communication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\communication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\communication\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\communication\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754F3603-6679-44EF-B4B2-BD1713456754}|DBBroker\\DBBroker.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\dbbroker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754F3603-6679-44EF-B4B2-BD1713456754}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754F3603-6679-44EF-B4B2-BD1713456754}|DBBroker\\DBBroker.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754F3603-6679-44EF-B4B2-BD1713456754}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754F3603-6679-44EF-B4B2-BD1713456754}|DBBroker\\DBBroker.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\dbbroker\\dbbroker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{754F3603-6679-44EF-B4B2-BD1713456754}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\dbbroker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\kreirajclanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\kreirajclanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\kreirajevidencijaclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\kreirajevidencijaclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\obrisiclanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\obrisiclanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\pretrazievidencijaclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\pretrazievidencijaclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\prijavitrenerso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\prijavitrenerso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\promeniclanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\promeniclanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\promenievidencijaclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\promenievidencijaclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\systemoperatonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\systemoperatonbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\ubacitreningso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\ubacitreningso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\vratilistuevidencijaclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\vratilistuevidencijaclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\vratilistusviclanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\vratilistusviclanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\vratilistusvitipclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\vratilistusvitipclanarineso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\vratilistusvitipclanaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\vratilistusvitipclanaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\systemoperation\\vratilistusvitrenerso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\systemoperation\\vratilistusvitrenerso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8ABF1B1-A0D8-4415-B91C-ED85F0D5179A}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\klijent\\usercontrols\\ucdetaljiclana.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F4D7-5667-4845-8641-175F4B8E3943}|Klijent\\Client.csproj|solutionrelative:klijent\\usercontrols\\ucdetaljiclana.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\frmserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\frmserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|c:\\users\\minan\\source\\repos\\pilatesapp\\server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F6924AA-260C-428F-9BDA-BCEB4EABF933}|Server\\Server.csproj|solutionrelative:server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCPretraziClanove.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCPretraziClanove.cs",
+              "RelativeDocumentMoniker": "Klijent\\UserControls\\UCPretraziClanove.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCPretraziClanove.cs [Design]",
+              "RelativeToolTip": "Klijent\\UserControls\\UCPretraziClanove.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:26:12.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCPretraziEvidenciju.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCPretraziEvidenciju.cs",
+              "RelativeDocumentMoniker": "Klijent\\UserControls\\UCPretraziEvidenciju.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCPretraziEvidenciju.cs [Design]",
+              "RelativeToolTip": "Klijent\\UserControls\\UCPretraziEvidenciju.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:27:51.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCUbaciTrening.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCUbaciTrening.cs",
+              "RelativeDocumentMoniker": "Klijent\\UserControls\\UCUbaciTrening.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCUbaciTrening.cs [Design]",
+              "RelativeToolTip": "Klijent\\UserControls\\UCUbaciTrening.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:29:44.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClanGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\ClanGuiController.cs",
+              "RelativeDocumentMoniker": "Klijent\\GuiController\\ClanGuiController.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\ClanGuiController.cs*",
+              "RelativeToolTip": "Klijent\\GuiController\\ClanGuiController.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:14:12.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvidencijaGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\EvidencijaGuiController.cs",
+              "RelativeDocumentMoniker": "Klijent\\GuiController\\EvidencijaGuiController.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\EvidencijaGuiController.cs*",
+              "RelativeToolTip": "Klijent\\GuiController\\EvidencijaGuiController.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:15:24.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCkreirajEvidencijaClanarine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCkreirajEvidencijaClanarine.cs",
+              "RelativeDocumentMoniker": "Klijent\\UserControls\\UCkreirajEvidencijaClanarine.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCkreirajEvidencijaClanarine.cs [Design]*",
+              "RelativeToolTip": "Klijent\\UserControls\\UCkreirajEvidencijaClanarine.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:29:04.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCDetaljiEvidencije.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCDetaljiEvidencije.cs",
+              "RelativeDocumentMoniker": "Klijent\\UserControls\\UCDetaljiEvidencije.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCDetaljiEvidencije.cs [Design]",
+              "RelativeToolTip": "Klijent\\UserControls\\UCDetaljiEvidencije.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:27:14.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UCKreirajClana.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCKreirajClana.cs",
+              "RelativeDocumentMoniker": "Klijent\\UserControls\\UCKreirajClana.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCKreirajClana.cs [Design]",
+              "RelativeToolTip": "Klijent\\UserControls\\UCKreirajClana.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:25:35.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCDetaljiClana.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCDetaljiClana.cs",
+              "RelativeDocumentMoniker": "Klijent\\UserControls\\UCDetaljiClana.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCDetaljiClana.cs [Design]",
+              "RelativeToolTip": "Klijent\\UserControls\\UCDetaljiClana.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:22:51.221Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\LoginGuiController.cs",
+              "RelativeDocumentMoniker": "Klijent\\GuiController\\LoginGuiController.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\LoginGuiController.cs*",
+              "RelativeToolTip": "Klijent\\GuiController\\LoginGuiController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:16:45.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainCoordinator.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\MainCoordinator.cs",
+              "RelativeDocumentMoniker": "Klijent\\GuiController\\MainCoordinator.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\MainCoordinator.cs",
+              "RelativeToolTip": "Klijent\\GuiController\\MainCoordinator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:18:13.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TreningGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\TreningGuiController.cs",
+              "RelativeDocumentMoniker": "Klijent\\GuiController\\TreningGuiController.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\GuiController\\TreningGuiController.cs*",
+              "RelativeToolTip": "Klijent\\GuiController\\TreningGuiController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:20:11.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\Client.csproj",
+              "RelativeDocumentMoniker": "Klijent\\Client.csproj",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\Client.csproj*",
+              "RelativeToolTip": "Klijent\\Client.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-24T17:51:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Communications.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\Communications.cs",
+              "RelativeDocumentMoniker": "Klijent\\Communications.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\Communications.cs",
+              "RelativeToolTip": "Klijent\\Communications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:52:29.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Klijent\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\FrmLogin.cs [Design]*",
+              "RelativeToolTip": "Klijent\\FrmLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:50:40.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Klijent\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\FrmMain.cs [Design]",
+              "RelativeToolTip": "Klijent\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:53:47.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\Program.cs",
+              "RelativeDocumentMoniker": "Klijent\\Program.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\Program.cs*",
+              "RelativeToolTip": "Klijent\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:51:12.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Communication\\Operation.cs",
+              "RelativeDocumentMoniker": "Common\\Communication\\Operation.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Communication\\Operation.cs",
+              "RelativeToolTip": "Common\\Communication\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:34:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Trening.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\Trening.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Trening.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\Trening.cs",
+              "RelativeToolTip": "Common\\Domain\\Trening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:56:15.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TrenerTrening.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\TrenerTrening.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\TrenerTrening.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\TrenerTrening.cs",
+              "RelativeToolTip": "Common\\Domain\\TrenerTrening.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA9wCEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:56:25.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Trener.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\Trener.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Trener.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\Trener.cs",
+              "RelativeToolTip": "Common\\Domain\\Trener.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:55:55.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TipClanarine.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\TipClanarine.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\TipClanarine.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\TipClanarine.cs",
+              "RelativeToolTip": "Common\\Domain\\TipClanarine.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:54:33.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TipClana.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\TipClana.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\TipClana.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\TipClana.cs",
+              "RelativeToolTip": "Common\\Domain\\TipClana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:54:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StavkaEvidencijeClanarine.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\StavkaEvidencijeClanarine.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\StavkaEvidencijeClanarine.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\StavkaEvidencijeClanarine.cs",
+              "RelativeToolTip": "Common\\Domain\\StavkaEvidencijeClanarine.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:53:26.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\IEntity.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\IEntity.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\IEntity.cs",
+              "RelativeToolTip": "Common\\Domain\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:41:29.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EvidencijaClanarine.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\EvidencijaClanarine.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\EvidencijaClanarine.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\EvidencijaClanarine.cs",
+              "RelativeToolTip": "Common\\Domain\\EvidencijaClanarine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:43:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Clan.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\Clan.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Clan.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Domain\\Clan.cs",
+              "RelativeToolTip": "Common\\Domain\\Clan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:39:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JsonNetworkSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Communication\\JsonNetworkSerializer.cs",
+              "RelativeDocumentMoniker": "Common\\Communication\\JsonNetworkSerializer.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Communication\\JsonNetworkSerializer.cs",
+              "RelativeToolTip": "Common\\Communication\\JsonNetworkSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:21:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Communication\\Response.cs",
+              "RelativeDocumentMoniker": "Common\\Communication\\Response.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Communication\\Response.cs",
+              "RelativeToolTip": "Common\\Communication\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:36:17.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Communication\\Request.cs",
+              "RelativeDocumentMoniker": "Common\\Communication\\Request.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Communication\\Request.cs",
+              "RelativeToolTip": "Common\\Communication\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:34:49.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\DBBroker\\DbConnection.cs",
+              "RelativeDocumentMoniker": "DBBroker\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\DBBroker\\DbConnection.cs",
+              "RelativeToolTip": "DBBroker\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:53:03.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\DBBroker\\Broker.cs",
+              "RelativeDocumentMoniker": "DBBroker\\Broker.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\DBBroker\\Broker.cs",
+              "RelativeToolTip": "DBBroker\\Broker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:51:53.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DbBroker",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\DBBroker\\DbBroker.csproj",
+              "RelativeDocumentMoniker": "DBBroker\\DbBroker.csproj",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\DBBroker\\DbBroker.csproj*",
+              "RelativeToolTip": "DBBroker\\DbBroker.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T16:52:31.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:45:33.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:43:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\Controller.cs",
+              "RelativeDocumentMoniker": "Server\\Controller.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\Controller.cs*",
+              "RelativeToolTip": "Server\\Controller.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:46:24.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "Server\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\ClientHandler.cs*",
+              "RelativeToolTip": "Server\\ClientHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:47:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "KreirajClanSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\KreirajClanSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\KreirajClanSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\KreirajClanSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\KreirajClanSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:24:11.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KreirajEvidencijaClanarineSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\KreirajEvidencijaClanarineSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\KreirajEvidencijaClanarineSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\KreirajEvidencijaClanarineSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\KreirajEvidencijaClanarineSO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:24:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ObrisiClanSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\ObrisiClanSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\ObrisiClanSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\ObrisiClanSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\ObrisiClanSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:24:41.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PretraziEvidencijaClanarineSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\PretraziEvidencijaClanarineSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\PretraziEvidencijaClanarineSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\PretraziEvidencijaClanarineSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\PretraziEvidencijaClanarineSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:25:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PrijaviTrenerSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\PrijaviTrenerSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\PrijaviTrenerSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\PrijaviTrenerSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\PrijaviTrenerSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:25:18.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PromeniClanSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\PromeniClanSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\PromeniClanSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\PromeniClanSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\PromeniClanSO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:25:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PromeniEvidencijaClanarineSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\PromeniEvidencijaClanarineSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\PromeniEvidencijaClanarineSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\PromeniEvidencijaClanarineSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\PromeniEvidencijaClanarineSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:25:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SystemOperatonBase.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\SystemOperatonBase.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\SystemOperatonBase.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\SystemOperatonBase.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\SystemOperatonBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:26:03.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UbaciTreningSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\UbaciTreningSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\UbaciTreningSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\UbaciTreningSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\UbaciTreningSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:26:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VratiListuEvidencijaClanarineSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuEvidencijaClanarineSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\VratiListuEvidencijaClanarineSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuEvidencijaClanarineSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\VratiListuEvidencijaClanarineSO.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvzkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:26:37.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VratiListuSviClanSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuSviClanSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\VratiListuSviClanSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuSviClanSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\VratiListuSviClanSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:26:51.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "VratiListuSviTipClanarineSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuSviTipClanarineSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\VratiListuSviTipClanarineSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuSviTipClanarineSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\VratiListuSviTipClanarineSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:27:13.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VratiListuSviTipClanaSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuSviTipClanaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\VratiListuSviTipClanaSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuSviTipClanaSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\VratiListuSviTipClanaSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:27:38.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "VratiListuSviTrenerSO.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuSviTrenerSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperation\\VratiListuSviTrenerSO.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\SystemOperation\\VratiListuSviTrenerSO.cs",
+              "RelativeToolTip": "Server\\SystemOperation\\VratiListuSviTrenerSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:27:53.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Common",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Common\\Common.csproj*",
+              "RelativeToolTip": "Common\\Common.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-24T18:39:00.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UCDetaljiClana.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCDetaljiClana.Designer.cs",
+              "RelativeDocumentMoniker": "Klijent\\UserControls\\UCDetaljiClana.Designer.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Klijent\\UserControls\\UCDetaljiClana.Designer.cs",
+              "RelativeToolTip": "Klijent\\UserControls\\UCDetaljiClana.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:22:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmServer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\FrmServer.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmServer.Designer.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\FrmServer.Designer.cs*",
+              "RelativeToolTip": "Server\\FrmServer.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:48:59.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrmServer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\FrmServer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmServer.cs",
+              "ToolTip": "C:\\Users\\minan\\source\\repos\\PilatesApp\\Server\\FrmServer.cs [Design]",
+              "RelativeToolTip": "Server\\FrmServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:42:51.119Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
